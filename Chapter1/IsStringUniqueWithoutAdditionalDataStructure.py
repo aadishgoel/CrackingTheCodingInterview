@@ -14,4 +14,7 @@ if __name__=='__main__':
     ans = isSrtingUnique(data)
     print(ans)
     
-
+''' Output
+absfdesa
+False
+'''
