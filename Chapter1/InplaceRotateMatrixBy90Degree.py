@@ -1,5 +1,5 @@
 # Rotate Matrix By 90 Degree
-# :AAG
+# O(Elements in matrix) :AAG
 
 def TransposeMatrix(size, data):
     ''' To Inplace Transpose Matrix '''
